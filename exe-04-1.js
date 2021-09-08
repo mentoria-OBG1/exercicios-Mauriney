@@ -1,3 +1,3 @@
-const fahr = (celsius) => ((1.8 * celsius + 32));
+const fahrenheit = (celsius) => ((1.8 * celsius + 32));
 
-console.log(fahr(1));
+console.log(fahrenheit(1));
